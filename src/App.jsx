@@ -38,7 +38,21 @@ function App() {
         </div>
         <div className="about-container">
           <div className="about">
-            <h2 className='sub'>About Quest</h2>
+            <h2 className='sub'>Discover The <br /> Quest</h2>
+            <div className="travel-detai">
+              <div className="buttons-quest">
+                <button type="submit">Mombassa</button>
+                <button type="submit">Kamplata</button>
+                <button type="submit">Abuja</button>
+                <button type="submit">Cairo</button>
+                <button type="submit">Malindi</button>
+                <button type="submit">Nakuru</button>
+              </div>
+
+              <form action="" className='input-form'>
+                <input type="date" />
+              </form>
+            </div>
           </div>
         </div>
       </div>
