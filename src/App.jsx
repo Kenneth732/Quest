@@ -36,6 +36,9 @@ function App() {
           </div>
           {/* <div className="card-image"></div> */}
         </div>
+        <div className="about-container">
+          <div className="about"></div>
+        </div>
       </div>
     </div>
   )
